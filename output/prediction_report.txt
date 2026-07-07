@@ -1,0 +1,17 @@
+============================================================
+HANDWRITTEN DIGIT RECOGNITION REPORT
+============================================================
+
+Image Path : input/sample.png
+
+Detected Numbers
+-------------------------
+15
+2
+203
+
+Total Contours : 6
+Total Digits : 6
+Detected Numbers : 3
+Average Confidence : 99.97%
+Processing Time : 47.039 seconds
