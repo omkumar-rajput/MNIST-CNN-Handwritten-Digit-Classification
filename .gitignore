@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ==========================================
+# Project Specific
+# ==========================================
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output files
+output/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Codespaces
+.history/
