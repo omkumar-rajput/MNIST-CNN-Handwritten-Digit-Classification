@@ -1,0 +1,6 @@
+print("======================================")
+print(" CNN Model on MNIST Dataset")
+print(" Handwritten Digit Classification")
+print(" Internship Project")
+print("======================================")
+print("Project setup completed successfully!")
